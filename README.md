@@ -1,5 +1,9 @@
 # Detection-of-face-Manipulated-videos
-This is the implementation code for Detection of Manipulated Facial Images using Faceforensics++ data
+This is the implementation code for Detection of Manipulated Facial Images using Faceforensics++ data.
+
+For detailed documentation please refer following medium link. 
+
+https://medium.com/analytics-vidhya/detection-of-face-manipulated-videos-using-deep-learning-6bca870f3a6a?source=friends_link&sk=46e2f2beb6415cba6850cb66bc0bcd43
 
 
 ## Problem Definition:
